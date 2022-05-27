@@ -1,7 +1,7 @@
 /* eslint-disable vue/no-dupe-keys */
 <template>
   <div class="container">
-   <h2 class="text-center mt-5">My Vue Todo App</h2>
+   <h2 class="text-center mt-5">To-Do List</h2>
 
 <!-- inputs -->
 <div class="d-flex">
